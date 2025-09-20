@@ -1,7 +1,7 @@
 # Projet Base de Données –   
 
 Projet réalisé dans le cadre du cours **SMI1001-00 – Bases de données I** .  
-Ce travail pratique consistait à **concevoir, implémenter et manipuler une base de données relationnelle robuste et cohérente** en SQL pour un organisme spécialisé dans l’analyse des entreprises manufacturières en Amérique du Nord.  
+Ce travail pratique consistait à **concevoir, implémenter et manipuler une base de données relationnelle robuste et cohérente** en SQL pour un "organisme spécialisé" dans l’analyse des entreprises manufacturières en Amérique du Nord.  
 
 Ce projet m’a permis d’explorer toutes les étapes de la démarche :  
 
